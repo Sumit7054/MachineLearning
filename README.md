@@ -1,0 +1,1 @@
+This repo is all about how machine learning works. From raw data and model training, what are the cleaning steps and checks which should be carried out, for your model to work on that specific domain.
